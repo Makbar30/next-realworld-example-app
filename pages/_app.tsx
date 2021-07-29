@@ -1,5 +1,5 @@
-import { CacheProvider } from "@emotion/core";
-import { cache } from "emotion";
+import { CacheProvider } from "@emotion/react";
+import { cache } from "@emotion/css";
 import Head from "next/head";
 import React from "react";
 
